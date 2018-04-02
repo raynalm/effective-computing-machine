@@ -1,0 +1,16 @@
+,,,,,,
+categorical_crossentropy,Adadelta,128,3,4,0.0311608792,0.99
+categorical_crossentropy,Adadelta,128,5,4,0.0312414005,0.9909
+categorical_crossentropy,Adadelta,128,7,4,0.0258582322,0.9919
+categorical_crossentropy,Adadelta,128,9,4,0.0647276794,0.9819
+categorical_crossentropy,Adadelta,128,11,4,0.3258522204,0.8869
+categorical_crossentropy,Adadelta,128,13,4,2.3011105183,0.1135
+,,,,,,
+,,,,,,
+,,,,,,
+categorical_crossentropy,Adadelta,128,3,4,0.0329419866,0.9891
+categorical_crossentropy,Adadelta,128,5,4,0.0272183273,0.9905
+categorical_crossentropy,Adadelta,128,7,4,0.0482310464,0.986
+categorical_crossentropy,Adadelta,128,9,4,0.0905769045,0.9717
+categorical_crossentropy,Adadelta,128,11,4,0.3655404613,0.8901
+categorical_crossentropy,Adadelta,128,13,4,2.3010207138,0.1135
